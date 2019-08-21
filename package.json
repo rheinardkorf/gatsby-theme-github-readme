@@ -1,0 +1,10 @@
+{
+  "name": "@readysteady/gatsby-theme-github-readme",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "graphql-request": "^1.8.2"
+  }
+}
